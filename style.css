@@ -53,3 +53,12 @@ form button {
     font-weight: 900;
     text-transform: uppercase;
 }
+
+#section2 {
+    text-align: left;
+    padding-left: 50px;
+}
+
+#section2 p {
+    margin-bottom: 0;
+}
